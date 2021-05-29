@@ -1,4 +1,4 @@
-# Changelog for Xiaomi Redmo Note 10 Pro (Begonia)
+# Changelog for Xiaomi Redmo Note 10 Pro (Sweet)
 
 ## HyconOS V3.0 - 21/05/2021
 - Merged May SP 
