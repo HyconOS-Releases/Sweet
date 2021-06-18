@@ -4,3 +4,11 @@
 - Merged May SP 
 - Gapps Included
 - stormbreaker V2 inbuild
+
+## HyconOS V3.5 - 18/06/2021
+- switch to stock kernel
+- improve stability of the ROM
+- Fix some issues
+- source changes
+- June security patch with redfin FP
+- CTS PASSED out of the box
