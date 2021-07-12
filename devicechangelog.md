@@ -12,3 +12,12 @@
 - source changes
 - June security patch with redfin FP
 - CTS PASSED out of the box
+
+# Changelog for Xiaomi Redmi Note 10 Pro (Sweet)
+
+## HyconOS V4.0 - 12/07/2021
+-Merged July SP
+-improve stability of the ROM
+-Fix ui laggy in previous version
+-source changes
+-July security patch
