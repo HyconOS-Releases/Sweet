@@ -13,7 +13,7 @@
 - June security patch with redfin FP
 - CTS PASSED out of the box
 
-# Changelog for Xiaomi Redmi Note 10 Pro (Sweet)
+
 
 ## HyconOS V4.0 - 12/07/2021
 - Merged July SP
@@ -22,7 +22,14 @@
 - source changes
 - July security patch
 
-
-
-
-
+## HyconOS V4.5 - 26/08/2021
+- improve stability of the ROM
+- Fix Fix ui laggy in previous version
+- source changes
+- add blur option but disabled by defualt
+- improve hqptics viprate
+- redesign refresh rate sectionq
+- use redfin FP
+- you can now save your photos with unlimited storage
+- Rom is now stable and so smooth even you enable blur
+- fixed died pixels aroujd the front camera now its like miui 
